@@ -1,0 +1,10 @@
+.header__wrapper{
+    background-image: url("../img/DOOM_Eternal_Fire_Baron.jpg");    
+}
+
+.header_top_wrapper{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
